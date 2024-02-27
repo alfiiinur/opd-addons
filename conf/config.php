@@ -5,7 +5,7 @@ date_default_timezone_set("ASIA/JAKARTA");
 $con = array(
     'user' => 'root',
     'pass' => '',
-    'db'   => 'dbnewsub',
+    'db'   => 'cobakdeh',
     'host' => 'localhost'
 );
 
