@@ -273,6 +273,8 @@ table {
   outline: none;
 }
 
+
+
 /* remove dotted outline from links,
 button and input element */
 a:focus,
@@ -3161,6 +3163,8 @@ input:focus.subscribe-email:-moz-placeholder {
 }
 
 
+/* calender */
+
 #calendar {
   max-width: 600px;
   margin: 40px auto;
@@ -3597,3 +3601,118 @@ input:focus.subscribe-email:-moz-placeholder {
 
 .error-input {
   border-color: #cd4dcc; }
+
+
+  /* end calender */
+
+
+  /* statr news */
+
+
+  /*** Latest News Start ***/
+.latest-news .latest-news-carousel.owl-carousel{
+  position: relative;
+}
+
+.latest-news .latest-news-carousel.owl-carousel .owl-nav .owl-prev {
+  position: absolute;
+  top: -65px;
+  right: 70px;
+  font-size: 20px;
+  padding: 2px 20px;
+  transition: 0.5s;
+  margin-right: 10px;
+  border: 1px solid var(--bs-primary);
+  color: var(--bs-dark);
+  border-radius: 20px;
+}
+
+.latest-news .latest-news-carousel.owl-carousel .owl-nav .owl-next {
+  position: absolute;
+  top: -65px;
+  right: 0;
+  font-size: 20px;
+  margin-left: 10px;
+  padding: 2px 20px;
+  transition: 0.5s;
+  border: 1px solid var(--bs-primary);
+  color: var(--bs-dark);
+  border-radius: 20px;
+}
+
+.latest-news .latest-news-carousel.owl-carousel .owl-nav .owl-prev:hover,
+.latest-news .latest-news-carousel.owl-carousel .owl-nav .owl-next:hover {
+  background: var(--bs-primary);
+  color: var(--bs-white);
+  border-radius: 10px;
+}
+/*** Latest News End ***/
+
+
+  .whats-carousel.owl-carousel {
+    position: relative;
+}
+
+
+.populer-news .whats-carousel.owl-carousel {
+  position: relative;
+}
+
+.populer-news .whats-carousel.owl-carousel .owl-nav .owl-prev {
+  position: absolute;
+  top: -80px;
+  right: 70px;
+  font-size: 20px;
+  padding: 2px 20px;
+  transition: 0.5s;
+  margin-right: 10px;
+  border: 1px solid var(--bs-primary);
+  color: var(--bs-dark);
+  border-radius: 20px;
+}
+
+.populer-news .whats-carousel.owl-carousel .owl-nav .owl-next {
+  position: absolute;
+  top: -80px;
+  right: 0;
+  font-size: 20px;
+  margin-left: 10px;
+  padding: 2px 20px;
+  transition: 0.5s;
+  border: 1px solid var(--bs-primary);
+  color: var(--bs-dark);
+  border-radius: 20px;
+}
+
+.populer-news .whats-carousel.owl-carousel .owl-nav .owl-prev:hover,
+.populer-news .whats-carousel.owl-carousel .owl-nav .owl-next:hover {
+  background: var(--bs-primary);
+  color: var(--bs-white);
+  border-radius: 10px;
+}
+
+.populer-news .tab-class .nav-item a.active {
+  background: var(--bs-primary) !important;
+}
+
+
+.link-hover {
+  transition: 0.5s;
+}
+
+.link-hover:hover {
+  color: var(--bs-primary) !important;
+}
+
+
+.img-zoomin {
+  transition: 0.5s;
+}
+
+.img-zoomin:hover {
+  transform: scale(1.1);
+}
+
+
+
+  /* end news */

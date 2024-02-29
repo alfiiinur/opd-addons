@@ -21,6 +21,14 @@
     <!-- style start -->
     <link href="assets/css/plugins.css" media="all" rel="stylesheet" type="text/css">
     <link href="assets/css/style.css" media="all" rel="stylesheet" type="text/css">
+    <link href="assets/css/news.css" media="all" rel="stylesheet" type="text/css">
+
+    <!-- Libraries Stylesheet -->
+    <link href="lib/animate/animate.min.css" rel="stylesheet">
+    <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
     <!-- style end -->
 
     <!-- google fonts start -->
@@ -123,6 +131,150 @@
             </div><!-- scroll indicator end -->
         </div>
         <!-- section home end -->
+
+        <!-- section launch start -->
+        <div class="section" id="section3">
+            <!-- section title start -->
+            <div class="section-title-vertical">
+                <span>NEWS</span>
+            </div><!-- section title end -->
+            <!-- container start -->
+            <div class="container-fluid sections">
+                <!-- row start -->
+                <div class="row">
+                    <!-- col start -->
+                    <div class="col-md-12 col-sm-12 nopadding">
+                        <!-- launch full start -->
+                        <div class="launch-container">
+                            <!-- news -->
+                            <!-- Latest News Start -->
+                            <div class="container-fluid latest-news py-5">
+                                <div class="container py-5">
+                                    <h2 class="mb-4 text-white">CARI BERITA LAIN</h2>
+                                    <div class="mt-lg-5 pt-lg-5 latest-news-carousel owl-carousel">
+                                        <div class="latest-news-item">
+                                            <div class="bg-light rounded">
+                                                <div class="rounded-top overflow-hidden">
+                                                    <img src="assets/img/news/news-7.jpg"
+                                                        class="img-zoomin img-fluid rounded-top w-100" alt="">
+                                                </div>
+                                                <div class="d-flex flex-column p-4">
+                                                    <a href="#" class="h4 text-black">Lorem Ipsum is simply dummy
+                                                        text
+                                                        of...</a>
+                                                    <div class="d-flex justify-content-between">
+                                                        <a href="#" class="small text-body link-hover">by Willum
+                                                            Skeem</a>
+                                                        <small class="text-body d-block"><i
+                                                                class="fas fa-calendar-alt me-1"></i> Dec 9,
+                                                            2024</small>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="latest-news-item">
+                                            <div class="bg-light rounded">
+                                                <div class="rounded-top overflow-hidden">
+                                                    <img src="assets/img/news/news-6.jpg"
+                                                        class="img-zoomin img-fluid rounded-top w-100" alt="">
+                                                </div>
+                                                <div class="d-flex flex-column p-4">
+                                                    <a href="#" class="h4 text-black">Lorem Ipsum is simply dummy
+                                                        text
+                                                        of...</a>
+                                                    <div class="d-flex justify-content-between">
+                                                        <a href="#" class="small text-body link-hover">by Willum
+                                                            Skeem</a>
+                                                        <small class="text-body d-block"><i
+                                                                class="fas fa-calendar-alt me-1"></i> Dec 9,
+                                                            2024</small>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="latest-news-item">
+                                            <div class="bg-light rounded">
+                                                <div class="rounded-top overflow-hidden">
+                                                    <img src="assets/img/news/news-3.jpg"
+                                                        class="img-zoomin img-fluid rounded-top w-100" alt="">
+                                                </div>
+                                                <div class="d-flex flex-column p-4">
+                                                    <a href="#" class="h4 text-black">Lorem Ipsum is simply dummy
+                                                        text
+                                                        of...</a>
+                                                    <div class="d-flex justify-content-between">
+                                                        <a href="#" class="small text-body link-hover">by Willum
+                                                            Skeem</a>
+                                                        <small class="text-body d-block"><i
+                                                                class="fas fa-calendar-alt me-1"></i> Dec 9,
+                                                            2024</small>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="latest-news-item">
+                                            <div class="bg-light rounded">
+                                                <div class="rounded-top overflow-hidden">
+                                                    <img src="assets/img/news/news-4.jpg"
+                                                        class="img-zoomin img-fluid rounded-top w-100" alt="">
+                                                </div>
+                                                <div class="d-flex flex-column p-4">
+                                                    <a href="#" class="h4 text-black">Lorem Ipsum is simply dummy
+                                                        text
+                                                        of...</a>
+                                                    <div class="d-flex justify-content-between">
+                                                        <a href="#" class="small text-body link-hover">by Willum
+                                                            Skeem</a>
+                                                        <small class="text-body d-block"><i
+                                                                class="fas fa-calendar-alt me-1"></i> Dec 9,
+                                                            2024</small>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="latest-news-item">
+                                            <div class="bg-light rounded">
+                                                <div class="rounded-top overflow-hidden">
+                                                    <img src="assets/img/news/news-5.jpg"
+                                                        class="img-zoomin img-fluid rounded-top w-100" alt="">
+                                                </div>
+                                                <div class="d-flex flex-column p-4">
+                                                    <a href="#" class="h4 text-black ">Lorem Ipsum is simply dummy
+                                                        text
+                                                        of...</a>
+                                                    <div class="d-flex justify-content-between">
+                                                        <a href="#" class="small text-body link-hover">by Willum
+                                                            Skeem</a>
+                                                        <small class="text-body d-block"><i
+                                                                class="fas fa-calendar-alt me-1"></i> Dec 9,
+                                                            2024</small>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+
+                                    </div>
+
+                                </div>
+                            </div>
+                            <!-- Latest News End -->
+
+
+                            <!-- end news -->
+
+
+                        </div>
+                        <!-- launch full end -->
+                    </div>
+                    <!-- col end -->
+                </div>
+                <!-- row end -->
+            </div>
+            <!-- container end -->
+        </div>
+        <!-- section launch end -->
+
+
         <!-- section launch start -->
         <div class="section" id="section3">
             <!-- section title start -->
@@ -378,7 +530,8 @@
                                         </h2>
                                         <p class="about-txt">
                                             bob is a platform with a network of retail trading investors seeking to
-                                            invest in the stock market via automation and predefined trading strategie.
+                                            invest in the stock market via automation and predefined trading
+                                            strategie.
                                         </p>
                                         <!-- about content end -->
                                     </div>
@@ -618,13 +771,23 @@
     </div>
     <!-- fullPage end -->
     <!-- scripts start -->
-    <script src="assets/js/jquery.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="lib/easing/easing.min.js"></script>
+    <script src="lib/waypoints/waypoints.min.js"></script>
+    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+    <!-- <script src="assets/js/jquery.min.js"></script> -->
+    <script src="assets/js/news.js"></script>
     <script src="assets/js/popper.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/plugins.js"></script>
     <script src="assets/js/dexa.js"></script>
     <script src="assets/js/main.js"></script>
     <script src="assets/js/script.js"></script>
+    <script src="assets/lib/easing/easing.min.js"></script>
+    <script src="assets/lib/waypoints/waypoints.min.js"></script>
+    <script src="assets/lib/owlcarousel/owl.carousel.min.js"></script>
+
     <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha3/dist/js/bootstrap.bundle.min.js'></script>
     <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/core@4.2.0/main.min.js'></script>
     <script src='https://cdn.jsdelivr.net/npm/@fullcalendar/daygrid@4.2.0/main.js'></script>
